@@ -1,0 +1,22 @@
+# File konfigurasi OS
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# File konfigurasi editor / IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# (Opsional) Jika nanti Anda menggunakan Composer untuk PHP
+# vendor/
+# composer.lock
+
+# (Opsional) Jika Anda memiliki file yang berisi password database
+# config.php atau .env
