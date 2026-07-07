@@ -1,0 +1,23 @@
+
+------------------------Admin Login Details
+Email   : admin@mail.com
+Password: Password@123
+
+------------------------Teacher Login Details
+Email   : jwood@mail.com
+Password: pass123
+
+------------------------student login detail
+ id : AMS005
+default password for student 12345
+
+**Default password for teacher's account: pass123**
+
+-------------------------Login guru:
+
+Username: email (acarter@mail.com, badams@mail.com, dstone@mail.com, jwood@mail.com)
+
+Password: 12345 (untuk tiga guru baru; Greenwood tetap pakai yang lama)
+#
+pindah kelas 
+crud siswa
